@@ -1,1 +1,1 @@
-# Learn with R
+# JavaScript Learning Journey for Software Engineering 🔥
